@@ -3,7 +3,7 @@
 ---
 - 🏢 I’m currently working with NodeJS and TypeScript
 -  🤝 I’m looking to collaborate with other developers
-- 🎇 2021 Goals: Learn more about backend development and functional programming
+- 🎇 2022 Goals: Learn more about backend development and functional programming
 ---
 <center  >
     <img height="120" align="center" src="https://i.giphy.com/media/Sqlj82Xy4eZKSU9iVM/giphy.gif" alt="Resume" />
